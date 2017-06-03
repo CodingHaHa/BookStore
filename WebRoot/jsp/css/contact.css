@@ -1,0 +1,57 @@
+body{
+	background:url(../imgs/28.gif) repeat;
+}
+*{
+	color:#333;
+}
+/*start left部分包含的样式*/
+#left ul
+{
+    margin:0px;
+    border:0px;
+    padding:0px;/*前三行代码是对系统设置格式化*/
+    margin-left:5px;
+    font-weight:bold;		
+    list-style-position:inside;
+	margin-left:20px;
+}
+
+ul li
+{
+    line-height:20px;
+	color:#9E875E;		
+	
+}
+.second{
+	list-style-type:none;
+}
+ul.second li{
+	color:#856101;
+	font-weight:normal;
+}
+
+/*end left部分包含的样式*/
+
+/*start right部分包含的样式*/
+p{
+	line-height:18px;
+	width:730px;
+	text-indent:25px;	
+}
+.p1{
+	color:#c86b07;
+	text-indent:25px;
+
+}
+.p2{
+	color:#d11111;
+	font-weight:bold;
+	line-height:20px;
+	font-size:14px;
+	text-indent:0px;	
+}
+.route{
+	color:#D9B300;
+}
+
+/*end right部分包含的样式*/

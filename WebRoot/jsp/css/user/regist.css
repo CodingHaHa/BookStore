@@ -1,0 +1,77 @@
+#body {
+	background-image: url(/MyShop/images/reg01.jpg);
+}
+
+#divMain {
+	margin-left: 240px;
+}
+
+#divTitle {
+	margin-left: 300px;
+	width: 270px;
+	height: 50px;
+	border: 1px solid #d0d0d0;
+	background: green;
+}
+
+#spanTitle {
+	margin-left: 100px;
+	font-weight: 900;
+	size: 30;
+}
+
+.font {
+	margin-left: -10px;
+	font-size: 30px;
+	font-style: oblique;
+	font-weight: bold;
+}
+
+#divBody {
+	width: 880px;
+	height: 400px;
+}
+
+#tableForm {
+	line-height: 50px;
+}
+
+.tdText {
+	width: 300px;
+	text-align: right;
+}
+
+.tdInput {
+	width: 250px;
+}
+
+.tdError {
+	width: 300px;
+}
+
+.inputClass {
+	width: 240px;
+	height: 32px;
+	border: 1px solid #7f9db9;
+	line-height: 32px;
+	padding-left: 10px;
+}
+
+#imageVerifyCode {
+	width: 220px;
+	height: 40px;
+}
+
+#divVerifyCode {
+	text-align: center;
+	border: 1px solid #e2e2e2;
+}
+
+.errorClass {
+	background: url(/MyShop/images/error.png) no-repeat;
+	color: #f40000;
+	font-size: 10pt;
+	border: 1px solid #ffb8b8;
+	background-color: #fef2f2;
+	padding: 8px 8px 8px 35px;
+}
